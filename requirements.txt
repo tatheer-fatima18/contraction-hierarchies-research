@@ -1,0 +1,7 @@
+Core project dependencies
+
+networkx>=3.2 numpy>=1.26 matplotlib>=3.8
+
+Development and experimentation
+
+jupyter>=1.0 pytest>=8.0
